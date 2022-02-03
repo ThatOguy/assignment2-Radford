@@ -24,6 +24,12 @@ if you like sports there is sports here you should try.
 | soccer | any park or indoor place  | $0 - $20 |
 | basketball | find a tall stick with a hoop on it | $0 |
 
+---
+# Quotes
+
+> “Be yourself; everyone else is already taken.”  - *Oscar Wilde*
+
+> “Two things are infinite: the universe and human stupidity; and I'm not sure about the universe.” - *Albert Einstein*
 
 
 [About Me](AboutMe.md)
