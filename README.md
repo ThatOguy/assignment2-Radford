@@ -12,4 +12,18 @@
 - Anything fresh from the Bakery
 - Rotisserie chicken
 
-	[About Me](AboutMe.md)
+---
+# Table of Sports
+
+if you like sports there is sports here you should try.
+
+| Sport | Location | Cost |
+| ----------- | ----------- | ----------- |
+| Bowling | like 50 bowling allys | $20 |
+| hockey | go to someplace that has ice | $10 - $35 |
+| soccer | any park or indoor place  | $0 - $20 |
+| basketball | find a tall stick with a hoop on it | $0 |
+
+
+
+[About Me](AboutMe.md)
