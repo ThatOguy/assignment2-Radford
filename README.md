@@ -7,3 +7,7 @@
 1. turn onto I-29 South from NW 120th St.
 2. go untill you reach exit 8 Barry Rd.
 3. Follow Barry Rd. North untill Boardwalk Ave. and Walmart will be on your right.
+### Some good food at Walmart
+- Frozen pizza
+- Anything fresh from the Bakery
+- Rotisserie chicken
